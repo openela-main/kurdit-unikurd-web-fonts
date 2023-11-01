@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Parag Nemade <pnemade AT redhat DOT com> -->
+<component type="font">
+  <id>kurdit-unikurd-web</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Unikurd Web</name>
+  <summary>A widely used Kurdish font for Arabic-like scripts and Latin</summary>
+  <description>
+    <p>
+      A widely used Kurdish font which supports various Arabic-like scripts
+      (Arabic, Kurdish, Persian) and also Latin.
+    </p>
+  </description>
+  <updatecontact>pnemade_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://www.kurditgroup.org/node/1337</url>
+</component>
+
